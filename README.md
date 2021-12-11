@@ -1,5 +1,5 @@
-# HouSMaster official Page
-> Hi! I'm HouSMaster.
+# Sminx official Page
+> Hi! I'm Sminx.
 
 Brief description about me:
 
